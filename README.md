@@ -21,7 +21,7 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 [Book Search Engine](http://localhost:3000)
 
-![Image](https://github.com/Eskodad/book-search-engine/blob/master/mern.gif?raw=true)
+![Image](./images/mern.gif)
 
 ## Usage
 
