@@ -20,8 +20,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Deployed Application
 
-[Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)<br />
-![Image](https://github.com/Eskodad/book-search-engine/blob/master/mern.gif?raw=true)<br />
+[Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)
+
+![Image](https://github.com/Eskodad/book-search-engine/blob/master/mern.gif?raw=true)
 
 ## Usage
 
