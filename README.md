@@ -19,7 +19,7 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 ## Deployed Application
 
-[Book Search Engine](https://protected-wildwood-05297.herokuapp.com/)
+[Book Search Engine](http://localhost:3000)
 
 ![Image](https://github.com/Eskodad/book-search-engine/blob/master/mern.gif?raw=true)
 
