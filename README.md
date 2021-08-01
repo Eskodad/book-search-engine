@@ -104,5 +104,5 @@ Sahr Koroma
 
 ## Questions
 
-If you have any questions about the repository, contact me directly at i.petrovicova@gmail.com. You can find more of my work at <https://github.com/Eskodad>.
+If you have any questions about the repository, contact me directly at eskodad@yahoo.com. You can find more of my work at <https://github.com/Eskodad>.
 # book-search-engine
