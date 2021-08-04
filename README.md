@@ -19,7 +19,7 @@ The Book search engine is an application is leveraging the entire MERN stack and
 
 ## Deployed Application
 
-[Book Search Engine](http://localhost:3000)
+[Book Search Engine]()
 
 ![Image](./images/mern.gif)
 
